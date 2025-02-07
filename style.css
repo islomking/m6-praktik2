@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; text-align: center; background-color: #f9f9f9; }
+        .container { width: 300px; margin: 50px auto; padding: 20px; border: 1px solid #ccc; border-radius: 10px; background: white; }
+        .hidden { display: none; }
+        .dashboard { margin-top: 50px; }
+        button { background-color: #ff7043; color: white; border: none; padding: 10px; cursor: pointer; border-radius: 5px; }
+        button:hover { background-color: #ff5722; }
+        .password-container { position: relative; display: inline-block; }
+        .toggle-password { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); cursor: pointer; }
